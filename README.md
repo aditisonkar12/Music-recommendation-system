@@ -23,3 +23,25 @@ The trained machine learning model is exposed through a **REST API**, enabling r
 - 🧪 Offline training with online inference support
 
 ---
+
+## 🏗️ System Architecture
+
+```
+KKBOX Dataset
+   ↓
+Data Cleaning & EDA
+   ↓
+Feature Engineering
+   ↓
+Model Training (Collaborative Filtering)
+   ↓
+Model Evaluation
+   ↓
+Model Serialization
+   ↓
+REST API
+   ↓
+User Receives Recommendations
+```
+
+---
