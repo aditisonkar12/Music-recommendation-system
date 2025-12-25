@@ -54,7 +54,7 @@ User Receives Recommendations
 | Data Processing | Pandas, NumPy |
 | ML Library | Surprise |
 | Model Storage| Joblib |
-| API| Firebase / Node.js + Express / MongoDB |
+| API| Flask / FastAPI |
 | Version Control| Firebase / Node.js + Express / MongoDB |
 
 ---
