@@ -55,6 +55,6 @@ User Receives Recommendations
 | ML Library | Surprise |
 | Model Storage | Joblib |
 | API | Flask / FastAPI |
-| Version Control | Firebase / Node.js + Express / MongoDB |
+| Version Control | Git & GitHub |
 
 ---
