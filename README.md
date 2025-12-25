@@ -45,3 +45,16 @@ User Receives Recommendations
 ```
 
 ---
+
+## 🧩 Tech Stack
+
+| Layer | Technology |
+|------|------------|
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| ML Library | Surprise |
+| Model Storage| Joblib |
+| API| Firebase / Node.js + Express / MongoDB |
+| Version Control| Firebase / Node.js + Express / MongoDB |
+
+---
