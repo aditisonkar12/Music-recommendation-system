@@ -58,3 +58,14 @@ User Receives Recommendations
 | Version Control | Git & GitHub |
 
 ---
+
+## 📁 Project Structure
+
+music-recommendation-system/
+├── api/            # API source code
+├── data/           # Dataset files (ignored in GitHub)
+├── model/          # Saved trained models
+├── notebooks/      # EDA and experiments
+├── .gitignore
+├── README.md
+└── requirements.txt
