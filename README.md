@@ -1,4 +1,4 @@
-# 🎵 Music Recommendation System with API
+# 🎵 Music Recommendation System
 
 This project implements a **Music Recommendation System** using the **KKBOX dataset**.  
 It analyzes user listening behavior and song information to generate **personalized music recommendations**.  
