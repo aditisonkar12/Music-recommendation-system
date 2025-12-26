@@ -90,4 +90,9 @@ This project is licensed under the MIT License — free to use, modify, and dist
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommender-green)
+![API](https://img.shields.io/badge/API-Flask%2FFastAPI-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## ⭐ If you like this project, don’t forget to star the repo on GitHub!
